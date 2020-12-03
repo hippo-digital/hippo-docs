@@ -1,8 +1,8 @@
-name: Eleventy Build Master
+name: Eleventy Build
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build_deploy:
     runs-on: ubuntu-20.04
