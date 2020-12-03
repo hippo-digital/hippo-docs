@@ -2,6 +2,8 @@
 
 A blank template for creating online documentation
 
+See: https://hippodigital.github.io/hippo-docs/
+
 ## Getting Started
 
 To install the necessary packages, run this command in the root folder of the site:
