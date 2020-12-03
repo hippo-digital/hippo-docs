@@ -2,7 +2,7 @@
 
 A blank template for creating online documentation
 
-See: https://hippodigital.github.io/hippo-docs/
+See: https://hippo-digital.github.io/hippo-docs/
 
 ## Getting Started
 
