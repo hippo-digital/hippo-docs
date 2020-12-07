@@ -2,7 +2,7 @@
 
 A blank template for creating online documentation
 
-See: https://hippo-digital.github.io/hippo-docs/
+See: [https://hippo-digital.github.io/hippo-docs/](https://hippo-digital.github.io/hippo-docs/)
 
 ## Getting Started
 
@@ -12,12 +12,13 @@ To install the necessary packages, run this command in the root folder of the si
 npm install
 ```
 
-### Commands
+To run locally, with live reload of the site:
 
-* Run `npm start` for a development server and live reloading
-* Run `npm run build` to generate a production build
+```sh
+npm start
+```
 
 ## Thanks
 
-* All the [11ty](https://www.11ty.dev/) community
+* The [11ty](https://www.11ty.dev/) community
 * Max Böck for: [eleventastic](https://github.com/maxboeck/eleventastic)

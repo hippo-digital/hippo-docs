@@ -2,6 +2,7 @@
     "title": "Hippo Docs",
     "description": "A Documentation Starter Kit",
     "url": "https://hippo-digital.github.io/hippo-docs/",
+    "github-repo": "/hippo-docs/",
     "lang": "en",
     "locale": "en_us"
 }
